@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/5-React-PasswordVisibilityToggle-App/static/css/main.6cc9af20.css",
+    "main.js": "/5-React-PasswordVisibilityToggle-App/static/js/main.9e362143.js",
+    "index.html": "/5-React-PasswordVisibilityToggle-App/index.html",
+    "main.6cc9af20.css.map": "/5-React-PasswordVisibilityToggle-App/static/css/main.6cc9af20.css.map",
+    "main.9e362143.js.map": "/5-React-PasswordVisibilityToggle-App/static/js/main.9e362143.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cc9af20.css",
+    "static/js/main.9e362143.js"
+  ]
+}
