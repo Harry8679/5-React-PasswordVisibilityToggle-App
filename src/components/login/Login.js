@@ -4,18 +4,18 @@ import { IoIosEyeOff, IoIosEye } from "react-icons/io";
 
 const Login = () => {
   return (
-    <section className='login'>
-        <div className="--card">
-            <h2>Login</h2>
-            <div className="--form-control">
-                <input type="email" placeholder='Email' />
+    <section className='login --100vh --center-all'>
+        <div className="--card --bg-light">
+            <h2 className='--color-success'>Login</h2>
+            <div className="--form-control mySpace">
+                <input type="email" placeholder='Email' className='--width-100' />
                 <div className="password">
-                    <input type="password" placeholder='Password' />
+                    <input type="password" placeholder='Password' className='--width-100' />
                     <div className="icon">
                         <IoIosEye />
                     </div>
                 </div>
-                <button>Login</button>
+                <button className='--btn --btn-success --btn-block'>Login</button>
             </div>
         </div>
     </section>

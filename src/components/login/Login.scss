@@ -1,0 +1,22 @@
+.login {
+    background: var(--light-blue);
+}
+
+.login > div {
+    width: 40rem;
+}
+
+.password {
+    position: relative;
+
+    .icon {
+        position: absolute;
+        top: 1rem;
+        right: 1rem;
+        cursor: pointer;
+    }
+}
+
+.mySpace {
+    padding: 1rem;
+}
